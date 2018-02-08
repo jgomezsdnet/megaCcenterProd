@@ -3,3 +3,5 @@ env
 venv2
 .idea
 .DS_Store
+.ssh
+.bash*

@@ -60,21 +60,22 @@
 	    mensaje = mensaje + "  " + getCities("Culiacan")
 
 # File marks:
-'0  5  0  ~/.gitignore
-'1  7  0  ~/.gitignore
-'2  525  0  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
-'3  696  40  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
-'4  2  15  ~/megaCcenter/ccAdmin/docker/stage/Dockerfile
-'5  458  4  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
-'6  137  0  ~/megaCcenter/ccAdmin/src/ccAdmin/settings.py
-'7  10  7  ~/docker-compose.yml
-'8  3  8  ~/docker-compose.yml
-'9  26  19  ~/Dockerfile
+'0  7  5  ~/.gitignore
+'1  5  0  ~/.gitignore
+'2  9  0  ~/.gitignore
+'3  525  0  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
+'4  696  40  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
+'5  2  15  ~/megaCcenter/ccAdmin/docker/stage/Dockerfile
+'6  458  4  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
+'7  137  0  ~/megaCcenter/ccAdmin/src/ccAdmin/settings.py
+'8  10  7  ~/docker-compose.yml
+'9  3  8  ~/docker-compose.yml
 
 # Jumplist (newest first):
+-'  7  5  ~/.gitignore
 -'  5  0  ~/.gitignore
 -'  1  0  ~/.gitignore
--'  7  0  ~/.gitignore
+-'  9  0  ~/.gitignore
 -'  525  0  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
 -'  696  8  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
 -'  458  4  ~/megaCcenter/ccAdmin/src/maxConnections/views.py
@@ -169,17 +170,18 @@
 -'  14  0  ~/Dockerfile
 -'  25  0  ~/Dockerfile
 -'  17  0  ~/Dockerfile
--'  15  0  ~/Dockerfile
 
 # History of marks within files (newest to oldest):
 
 > ~/.gitignore
-	"	5	0
-	.	2	0
-	+	10	0
-	+	7	0
+	"	7	5
+	^	7	6
+	.	7	5
+	+	12	0
+	+	9	0
 	+	5	0
 	+	2	0
+	+	7	5
 
 > ~/megaCcenter/ccAdmin/src/maxConnections/views.py
 	"	525	0
